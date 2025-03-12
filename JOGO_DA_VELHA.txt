@@ -1,3 +1,11 @@
-_O_|_X_|_O__
-_X_|_X_|_O__
+Partida Nº1: Alan vs Fernanda
+
+_O_|_X_|_O_
+_X_|_X_|_O_
  X | O | O
+
+
+Partida Nº2: Alan vs Ana
+___|___|___
+___|___|___
+   |   |  
