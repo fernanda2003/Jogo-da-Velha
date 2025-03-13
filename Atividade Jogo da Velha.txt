@@ -1,0 +1,45 @@
+Alan Araújo Da Silveira
+Ana Cláudia Monteiro Misquita 
+Fernanda Aparecida Figueiredo Da Silva
+
+Descrição do uso do Git
+
+Primeiro foi criado o repositorio 'Jogo-da-Velha' no GitHub pela Fernanda
+
+O Alan fez:
+Git init
+git config --global user.name “Alan"
+git config --global user.email 'alanaraujosilveira6@gmail.com'
+
+
+A Ana fez:
+Git init
+git config --global user.name “Ana"
+git config --global user.email 'ana.misquita@aluno.faculdadeimpacta.com.br'
+
+
+A Fernanda fez:
+Git init
+git config --global user.name "Fernanda"
+git config --global user.email 'fernandafigueiredo962@gmail.com'
+
+
+Após inicializar o repositorio com o Git init, o git bash entrou direto na branch master então a Fernanda alterou para a Main com o git branch -m Main
+A Fernanda criou o arquivo txt do jogo da velha na máquina local e utilizou o comando git commit -m "Criando jogo da velha" e usou o comando git add . e no fim git push para enviar os arquivos para o GitHub e colocou o Alan e a Ana como colaboradores do projeto.
+
+Após isso o Alan usou o comando git clone https://github.com/fernanda2003/Jogo-da-Velha para receber os arquivos localmente, após isso ele fez a sua jogada no jogo da velha e foi no Git bash usar o git commit -m "Primeira jogada" depois usou o git add . e por fim o git push para enviar a sua jogada no repositorio.
+
+
+Na vez da Fernanda, ela usou o comando git pull para receber os arquivos localmente, após isso ele fez a sua jogada no jogo da velha e foi no Git bash usar o git commit -m "Segunda jogada" depois usou o git add . e por fim o git push para enviar a sua jogada no repositorio.
+
+
+Seguiu nesse loop até a 9° jogada que resultou em empate.
+
+Após isso houve um segundo jogo entre a Ana e o Alan.
+
+A Ana utilizou o git clone https://github.com/fernanda2003/Jogo-da-Velha para receber os arquivos localmente, após isso ele fez o jogo da velha junto da sua jogada no jogo e foi no Git bash usar o git commit -m "Primeira jogada" depois usou o git add . e por fim o git push para enviar a sua jogada no repositorio.
+
+Após isso o Alan usou o comando git pull para receber os arquivos localmente, após isso ele fez a sua jogada no jogo da velha e foi no Git bash usar o git commit -m "Primeira jogada" depois usou o git add . e por fim o git push para enviar a sua jogada no repositorio.
+
+
+Seguiu esse loop até a 9° jogada que resultou em empate.
